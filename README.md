@@ -1,52 +1,67 @@
-# CodeAlpha Summer Internship 🚀
+# Harshil Shah — Developer Portfolio
 
-This repository contains the projects completed during my **Web Development Internship at CodeAlpha**. As part of the internship, I successfully designed and developed two frontend projects using **HTML, CSS, and JavaScript**.
+> **Summer Internship Project · Frontend Development**
+
+![Portfolio Preview](https://harshil-2515.github.io/Tech_Portfolio/og-image.png)
+
+🌐 **Live Demo:** [harshil-2515.github.io/Tech_Portfolio](https://harshil-2515.github.io/Tech_Portfolio)
+
+---
+
+## ✨ Overview
+
+A clean, responsive personal portfolio website built from scratch — no frameworks, no libraries. Showcases my projects, experience, and skills with a dark/light theme toggle and smooth microinteractions.
+
+---
+
+## 🚀 Features
+
+- 🌙 **Dark / Light Mode** — CSS custom properties + JS toggle with instant theme switching
+- 📱 **Fully Responsive** — 5 breakpoints: Desktop → Nest Hub → Tablet → Large Phone → Small Phone
+- ✨ **Microinteractions** — Skill tag scale, staggered exp-tag cascade, project card shimmer, cursor glow
+- 🎞️ **Scroll Animations** — IntersectionObserver fade-up on every section, no external lib
+- 🔍 **SEO Ready** — Full Open Graph + Twitter Card meta tags (LinkedIn & WhatsApp previews)
+- ♿ **Accessible** — ARIA labels, semantic HTML, descriptive alt text throughout
+- ⚡ **Performance** — Font preconnect, passive event listeners, embedded assets
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
+| Layer | Details |
+|---|---|
+| Markup | HTML5 (semantic) |
+| Styling | CSS3 — custom properties, `clamp()`, grid, flexbox |
+| Logic | Vanilla JavaScript — no frameworks |
+| Fonts | Syne (headings) · DM Sans (body) via Google Fonts |
+| Deployment | GitHub Pages |
 
 ---
 
-## 📌 Projects Overview
+## 📁 Project Structure
 
-### 🖼️ Task 1 – Visual Gallery
-
-A modern and responsive image gallery designed to showcase photographs and visual content in an elegant way.
-
-#### Features
-- Responsive grid layout
-- Smooth hover effects
-- Lightbox image preview
-- Clean and minimal UI
-- Mobile-friendly design
-
-🔗 **Project Folder:**  
-https://github.com/Harshil-2515/CodeAlpha_Summer_Internship/tree/main/Visual_Gallery
+```
+Tech_Portfolio/
+└── index.html        # Single-file app — HTML + CSS + JS
+```
 
 ---
 
-### 💼 Task 2 – Tech Portfolio
+## 🖥️ Sections
 
-A personal portfolio website showcasing my skills, projects, achievements, and journey as a developer and designer.
+- **About** — Hero with avatar, bio, resume & WhatsApp CTA
+- **Skills** — Interactive tag chips with hover scale
+- **Experience** — Card layout with indigo date capsules and staggered tag animations
+- **Projects** — QuickBlog · Nike Clone · Harshil Visuals
+- **Certifications & Education**
 
-#### Features
-- Modern responsive design
-- Interactive UI elements
-- Project showcase section
-- Skills and experience section
-- Social media integration
-- Optimized user experience
+---
 
-🔗 **Portfolio Repository:**  
-https://github.com/Harshil-2515/Tech_Portfolio
+## 📬 Connect
 
-
-
-
-
-
+| | |
+|---|---|
+| Portfolio | [harshilvisuals.vercel.app](https://harshilvisuals.vercel.app) |
+| LinkedIn | [linkedin.com/in/harshil-shah25](https://linkedin.com/in/harshil-shah25) |
+| GitHub | [github.com/Harshil-2515](https://github.com/Harshil-2515) |
+| Email | shahharshil25a@gmail.com |
